@@ -1,5 +1,11 @@
 ### Hi there 👋
 [![Kacper Paczos' GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperpaczos&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+I recommend:
+- [Python 3: From None to Machine Learning](https://python3.info/)
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+- [An Introduction to Statistical Learning](https://www.statlearning.com/)
+
 <!--
 **kacperpaczos/kacperpaczos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
