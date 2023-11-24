@@ -6,6 +6,10 @@ I recommend:
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
 
+### React
+- [React-buddy](https://react-buddy.com/)
+
+
 <!--
 **kacperpaczos/kacperpaczos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
