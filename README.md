@@ -3,7 +3,7 @@
 
 ---
 
-## Recomend:
+## Recommend:
 - [Python 3: From None to Machine Learning](https://python3.info/)
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
