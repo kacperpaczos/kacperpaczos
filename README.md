@@ -8,6 +8,7 @@
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
 - [React-buddy](https://react-buddy.com/)
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ---
 
@@ -35,3 +36,4 @@
    ![Woodpecker-ci](https://img.shields.io/badge/-woodpecker-ci?style=flat-square&logo=woodpecker-ci)
  - **Deployment & Configuration management:**<br/>
    ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible)
+
